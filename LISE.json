@@ -1,0 +1,10 @@
+[
+  {
+    "license": "IO_GEM_K3Y_001_d_em",
+    "enabled": true
+  },
+  {
+    "license": "IO_GEM_K3Y_002",
+    "enabled": false
+  }
+]
